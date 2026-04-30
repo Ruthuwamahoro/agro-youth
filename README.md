@@ -2,9 +2,9 @@
 
 AgroYouth is a comprehensive digital platform designed to empower young Liberian farmers through digital learning, market access, community collaboration, and investment opportunities. The platform bridges the gap between traditional agriculture and modern technology, providing farmers with the tools they need to succeed in today's agricultural landscape.
 
-## 🚀 Features
+## Features
 
-### 🎓 Learning Management System
+### Learning Management System
 - **Interactive Courses**: Comprehensive agricultural courses across 6 categories
   - Cropping
   - Livestock
@@ -16,29 +16,29 @@ AgroYouth is a comprehensive digital platform designed to empower young Liberian
 - **Certification System**: Digital certificates upon course completion
 - **Progress Tracking**: Monitor learning progress and achievements
 
-### 💰 Investment & Funding Platform
+### Investment & Funding Platform
 - **Donation Applications**: Apply for agricultural project funding
 - **Investor Dashboard**: Connect farmers with potential investors
 - **Project Review System**: Streamlined approval process for funding applications
 - **Document Management**: Secure certificate and document upload system
 
-### 🛒 Agricultural Marketplace
+### Agricultural Marketplace
 - **Product Listings**: List and sell agricultural products
 - **Inventory Management**: Track crop quantities, pricing, and availability
 - **Location-Based Trading**: Connect local buyers and sellers
 
-### 👥 Community Features
+### Community Features
 - **Discussion Forums**: Course-specific discussion boards
 - **Anonymous Posting**: Privacy-focused community interactions
 - **Live Sessions**: Real-time agricultural workshops and seminars
 - **Expert Network**: Connect with agricultural experts and mentors
 
-### 📊 Analytics & Management
+### Analytics & Management
 - **Role-Based Access**: Admin, Investor, and Farmer user types
 - **Progress Analytics**: Track learning and business metrics
 - **Certificate Generation**: Automated PDF certificate creation
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **Next.js 16.0.0** - React framework with App Router
@@ -71,7 +71,7 @@ AgroYouth is a comprehensive digital platform designed to empower young Liberian
 - **Google APIs** - Calendar integration for live sessions
 - **date-fns** - Date manipulation utilities
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -95,7 +95,7 @@ src/
 └── validator/           # Input validation schemas
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ Before you begin, ensure you have the following installed on your system:
 git clone <repository-url>
 
 # Navigate to the project directory
-cd Agro_Youth1
+cd agro-youth
 
 # Verify you're in the correct directory
 ls -la
@@ -240,7 +240,7 @@ pnpm start
 pnpm migrate
 ```
 
-### 🚨 Troubleshooting
+###  Troubleshooting
 
 #### Common Issues and Solutions
 
@@ -393,7 +393,7 @@ The application uses PostgreSQL with the following main entities:
 - `liveSessions` - Interactive workshops
 - `Post`, `Comment`, `Replies` - Community discussions
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
