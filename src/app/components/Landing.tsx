@@ -135,9 +135,7 @@ const LandingPage: React.FC = () => {
             {features.map((feature, index) => (
               <Card key={index} className="border border-gray-200 hover:border-gray-300 hover:shadow-xl transition-all duration-300 group bg-gray-200">
                 <CardContent className="p-8">
-                  <div className="text-6xl mb-6 group-hover:scale-110 transition-transform duration-300 text-center">
-                    {feature.icon}
-                  </div>
+
                   <h3 className="text-2xl font-semibold text-gray-900 mb-4">
                     {feature.title}
                   </h3>

@@ -107,7 +107,7 @@ export function NavMain() {
               >
                 <div className="relative flex items-center justify-center gap-2">
                   <span className="tracking-wide">
-                    <Link href="/">🌾 AgroYouth</Link>
+                    <Link href="/">AgroYouth</Link>
                     </span>
                   {isDashboardActive && (
                     <div className="absolute -right-1 -top-1">

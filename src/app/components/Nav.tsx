@@ -33,7 +33,6 @@ const Header: React.FC = () => {
             href="/"
             className="flex items-center gap-2 group"
           >
-            <span className="text-2xl transition-transform group-hover:scale-110">🌾</span>
             <span className="text-xl font-bold text-gray-900 group-hover:text-gray-700 transition-colors">
               AgroYouth
             </span>
