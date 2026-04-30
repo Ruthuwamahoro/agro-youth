@@ -1,4 +1,4 @@
-# AgroYouth 🌾
+# AgroYouth 
 
 AgroYouth is a comprehensive digital platform designed to empower young Liberian farmers through digital learning, market access, community collaboration, and investment opportunities. The platform bridges the gap between traditional agriculture and modern technology, providing farmers with the tools they need to succeed in today's agricultural landscape.
 

@@ -169,7 +169,6 @@ const LandingPage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="flex items-center justify-center gap-3 text-2xl font-bold mb-4">
-              <span className="text-4xl">🌾</span>
               <span className="text-gray-300">Agro</span>
               <span className="text-yellow-600">Youth</span>
             </div>
