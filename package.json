@@ -67,6 +67,7 @@
     "zod": "^4.1.12"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.10",
     "@tailwindcss/postcss": "^4",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^20",
