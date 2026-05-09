@@ -7,7 +7,6 @@ import { useAddUsers } from '@/hooks/useRegister';
 
 const USER_TYPES = [
   { value: 'farmer', label: '🌾 Farmer', desc: 'Growing crops and livestock' },
-  { value: 'buyer', label: '🛒 Buyer', desc: 'Purchasing agricultural products' },
 ] as const;
 
 const Register: React.FC = () => {
@@ -38,7 +37,6 @@ const Register: React.FC = () => {
         {/* Header */}
         <div className="text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
-            <span className="text-4xl">🌾</span>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-green-600 to-green-800 bg-clip-text text-transparent">
               AgroYouth
             </h1>
