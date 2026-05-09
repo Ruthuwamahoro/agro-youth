@@ -168,7 +168,6 @@ export const farmerMenuItems: NavItem[] = [
 ];
 
 export const getMenuItems = (role?: string, userType?: string): NavItem[] => {
-  console.log("🔍 Checking user permissions:", { role, userType });
   
   if (role && (role.toLowerCase() === "admin" || role === "ADMIN")) {
     return adminMenuItems;

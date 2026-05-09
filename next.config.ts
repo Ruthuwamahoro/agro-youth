@@ -16,7 +16,6 @@ const withPWA = withPWAInit({
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  turbopack: {},
   experimental: {
     workerThreads: false,
     cpus: 1,
